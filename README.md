@@ -1,2 +1,7 @@
-# neural_symbolic_hybrid_network
-A next-generation neuro-symbolic AI project that combines neural networks with symbolic reasoning for smarter, explainable AI.
+# Neuro-Symbolic Hybrid Network (NSHN)
+
+This is a beginner-friendly implementation of a **Neuro-Symbolic Hybrid Network** in PyTorch.
+
+## Run training
+```bash
+python train.py
